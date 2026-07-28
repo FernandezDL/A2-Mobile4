@@ -1,0 +1,2304 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.3/staging' branch; Version is '6000.3.8f1 (1c7db571dde0) revision 1867189'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-pg29diana" at "2026-06-03T22:40:01.998554Z"
+OS: 'Windows 11  (10.0.26200) Education' Language: 'en' Physical Memory: 65218 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-06-03T22:40:01Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/pg29diana/Desktop/Mobile/SegundaPrueba
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+58493
+-licensingIpc
+LicenseClient-pg29diana
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-name
+AssetImport
+Successfully changed project path to: C:/Users/pg29diana/Desktop/Mobile/SegundaPrueba
+C:/Users/pg29diana/Desktop/Mobile/SegundaPrueba
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+Player connection [26396]  Target information:
+
+Player connection [26396]  * "[IP] 10.131.175.176 [Port] 0 [Flags] 2 [Guid] 1578933928 [EditorId] 1578933928 [Version] 1048832 [Id] WindowsEditor(7,151-R115-02) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [26396] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [26396] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              025363796bba4d208b34ad8df635657a
+  Correlation Id:          3206ed57358bf6af4499c84597da6215
+  External correlation Id: 2402893353858277876
+  Machine Id:              RO8vXEZkbjZyy8j6rFw/uKQsBFw=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-pg29diana" (connect: 0.00s, validation: 0.00s, handshake: 3.21s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-pg29diana-notifications" at "2026-06-03T22:40:05.213302Z"
+[Licensing::Module] Licensing Background thread has ended after 3.22s
+[Licensing::Module] Licensing is initialized (took 2.88s).
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674058632067-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Refreshing native plugins compatible for Editor in 5.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.3.8f1 (1c7db571dde0)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pg29diana/Desktop/Mobile/SegundaPrueba/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro RTX 5000 (ID=0x1eb0)
+    Vendor:   NVIDIA
+    VRAM:     16147 MB
+    Driver:   32.0.15.9597
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+[Licensing::Client] Successfully resolved entitlement details
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.3.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Registered in 0.006982 seconds.
+- Loaded All Assemblies, in  0.587 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+[usbmuxd] Send listen message
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 940 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.595 seconds
+Domain Reload Profiling: 2175ms
+	BeginReloadAssembly (163ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (267ms)
+		LoadAssemblies (157ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (262ms)
+			TypeCache.Refresh (260ms)
+				TypeCache.ScanAssembly (240ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (1596ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1531ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (1079ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (106ms)
+			ProcessInitializeOnLoadAttributes (221ms)
+			ProcessInitializeOnLoadMethodAttributes (120ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.190 seconds
+Refreshing native plugins compatible for Editor in 5.33 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.110 seconds
+Domain Reload Profiling: 2283ms
+	BeginReloadAssembly (233ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (60ms)
+	LoadAllAssembliesAndSetupDomain (814ms)
+		LoadAssemblies (527ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (404ms)
+			TypeCache.Refresh (263ms)
+				TypeCache.ScanAssembly (239ms)
+			BuildScriptInfoCaches (120ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1111ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (788ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (218ms)
+			ProcessInitializeOnLoadAttributes (445ms)
+			ProcessInitializeOnLoadMethodAttributes (95ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 3.46 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7033 unused Assets / (9.6 MB). Loaded Objects now: 7856.
+Memory consumption went from 158.8 MB to 149.2 MB.
+Total: 21.149300 ms (FindLiveObjects: 1.260200 ms CreateObjectMapping: 1.824900 ms MarkObjects: 8.570400 ms  DeleteObjects: 9.492600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3204601.978683 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Vase_12in_LR001.prefab
+  artifactKey: Guid(026c6346fb35cf04b8c5a97a91e0ac4c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Vase_12in_LR001.prefab using Guid(026c6346fb35cf04b8c5a97a91e0ac4c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dfb3a0b53528409f004ab3d01bbf58fe') in 0.1511916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/FryPan_10in_KN001.prefab
+  artifactKey: Guid(c72e56d59616d3949857c4700c6265e3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/FryPan_10in_KN001.prefab using Guid(c72e56d59616d3949857c4700c6265e3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7ff53df7c70ba36832ef759d267d3baf') in 0.0069196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom/Container_4in_CN001.prefab
+  artifactKey: Guid(7f20419bef8af4042bbcf83f842d3ecb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom/Container_4in_CN001.prefab using Guid(7f20419bef8af4042bbcf83f842d3ecb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2c3e586d056a1db54e6425b155eceaa4') in 0.0264915 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Custom/Brick_4in_BY001.prefab
+  artifactKey: Guid(2994ed6734c338549bd972e4c5eee4c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Custom/Brick_4in_BY001.prefab using Guid(2994ed6734c338549bd972e4c5eee4c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bfef8010171b324800429abcadc18698') in 0.0109715 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.522443 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Environment_13ftx9ft_KN001.prefab
+  artifactKey: Guid(b31163454e45d47409107e9efea0d055) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Environment_13ftx9ft_KN001.prefab using Guid(b31163454e45d47409107e9efea0d055) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0b55e97eaba6d1251dae6c47388b6126') in 0.0145232 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/ShelvingRack_FY001.fbx
+  artifactKey: Guid(dac3015d25c5ddb4291bdc9194d22098) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/ShelvingRack_FY001.fbx using Guid(dac3015d25c5ddb4291bdc9194d22098) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9b75965a733bc1201bff16fdae502a2d') in 0.0390674 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Chair_Patio_34in_BY002.fbx
+  artifactKey: Guid(222330ee07ea132438f59d540d06482e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Chair_Patio_34in_BY002.fbx using Guid(222330ee07ea132438f59d540d06482e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'df23591495b300e0c01e23102e3a81e5') in 0.0117411 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Nightstand_25in_BR001.prefab
+  artifactKey: Guid(478bff8034bbc0b4da2b0a3d48f6062a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Nightstand_25in_BR001.prefab using Guid(478bff8034bbc0b4da2b0a3d48f6062a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '712ebefcf7b3fce3cba3f5d04b0d3d42') in 0.0121164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetSurround_Refrigerator_38Wx24Dx90H_KN001a.prefab
+  artifactKey: Guid(62c463c2d5b37ad4c8c0581f61f6c0ed) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetSurround_Refrigerator_38Wx24Dx90H_KN001a.prefab using Guid(62c463c2d5b37ad4c8c0581f61f6c0ed) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9badb95f2163979721adf6446218af8c') in 0.0124256 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 69
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/Common/ReferenceShapes/Models/Cube.fbx
+  artifactKey: Guid(465e7ddc0e754ad4c8348b3006cb5805) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/Common/ReferenceShapes/Models/Cube.fbx using Guid(465e7ddc0e754ad4c8348b3006cb5805) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a047e365c333e68030413af7292f03c4') in 0.0122321 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Environment_25ftx16ft_KN001.fbx
+  artifactKey: Guid(274183700e5044543a184a6ba15ee153) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Environment_25ftx16ft_KN001.fbx using Guid(274183700e5044543a184a6ba15ee153) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b53ff5909e6f6448cf091c400d67d43e') in 0.0134479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom/Container_7in_CN002.prefab
+  artifactKey: Guid(38c0ecccd2d25ca4681ba5dc63d8c79b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom/Container_7in_CN002.prefab using Guid(38c0ecccd2d25ca4681ba5dc63d8c79b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '789841979ecf1bfcb36c9aefc71e74f5') in 0.0123203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/RockWall_12.5ft_BY001.prefab
+  artifactKey: Guid(08262028d72f66e439b4c7e4446576f5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/RockWall_12.5ft_BY001.prefab using Guid(08262028d72f66e439b4c7e4446576f5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd5da7b595a930ecf757e488898c95ae0') in 0.014135 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Pallet_FY001.fbx
+  artifactKey: Guid(faeb75f8bebe6e2408852a5c6fa46985) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Pallet_FY001.fbx using Guid(faeb75f8bebe6e2408852a5c6fa46985) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '004bc9d46f16c4b55e855f4d25393f7b') in 0.0103463 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/SimulationEnvironment_Base.prefab
+  artifactKey: Guid(3fb046bec96617641bce0a0cd1a0ae81) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/SimulationEnvironment_Base.prefab using Guid(3fb046bec96617641bce0a0cd1a0ae81) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd53ace9e340d39dee1b81860bb2c8001') in 0.0288731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/ApplianceStack_30in_Ovens_KN001a.fbx
+  artifactKey: Guid(70c696222ad920c448ec6912f70a0bae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/ApplianceStack_30in_Ovens_KN001a.fbx using Guid(70c696222ad920c448ec6912f70a0bae) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6d387417dbfd6f2f9b9d273bc2c2ec29') in 0.0127572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetUpper_TopTrim_12D_RightCap_KN001.prefab
+  artifactKey: Guid(e9129b1521d29a54785d1019fd3e5455) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetUpper_TopTrim_12D_RightCap_KN001.prefab using Guid(e9129b1521d29a54785d1019fd3e5455) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e7cefbe5e37689c70e2a872c16e26c5b') in 0.0120736 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Models
+  artifactKey: Guid(69686c1a2747ee247823122d0c384ed2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Models using Guid(69686c1a2747ee247823122d0c384ed2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7f8fb5264c044cc19a309e8b8c0626d8') in 0.0044518 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Models/Chair_36in_OF001.fbx
+  artifactKey: Guid(b64b75bc41f41fd4680a504fda2bd668) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Models/Chair_36in_OF001.fbx using Guid(b64b75bc41f41fd4680a504fda2bd668) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '49f4c0f579ca619e3a8757e3b9d6b647') in 0.0098376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/Common/ReferenceShapes/Materials/DebugGreen.mat
+  artifactKey: Guid(9e48ae4daffe10f459359185f95835fe) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/Common/ReferenceShapes/Materials/DebugGreen.mat using Guid(9e48ae4daffe10f459359185f95835fe) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '02df0b214983c0a6197c82f424a005cf') in 0.012298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Range_Hood_30in_KN001.prefab
+  artifactKey: Guid(aa2359a73c1609041b1559e4b5ed80e7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Range_Hood_30in_KN001.prefab using Guid(aa2359a73c1609041b1559e4b5ed80e7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '30d82d51b57815eba23a224c5fd6ef6d') in 0.0103504 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Prefab/Custom/Bleacher.prefab
+  artifactKey: Guid(67fdec01b8753914a89fb54af5e49a0f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Prefab/Custom/Bleacher.prefab using Guid(67fdec01b8753914a89fb54af5e49a0f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5989ba463c8e2a6fb73d25a97dda395d') in 0.0066277 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_10s_BB001.fbx
+  artifactKey: Guid(127db8ad4d7b9f043ba6ac8088573237) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_10s_BB001.fbx using Guid(127db8ad4d7b9f043ba6ac8088573237) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8732d8932ef83371325af9d3567eabb5') in 0.0163336 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 49
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/CoffeeTable_50in_LR001.prefab
+  artifactKey: Guid(a7ac4c7789576ee4eae7da33ac2e48db) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/CoffeeTable_50in_LR001.prefab using Guid(a7ac4c7789576ee4eae7da33ac2e48db) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1b65770f8d611ab2bc121d4fd5643775') in 0.0147452 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/Media_Case_CN002.fbx
+  artifactKey: Guid(bc59840c18382254691d872ccc552e04) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/Media_Case_CN002.fbx using Guid(bc59840c18382254691d872ccc552e04) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5cfbd99961c6811b4694e5ad366daf55') in 0.011069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Environment_17.5ftx16.5ft_LR001.fbx
+  artifactKey: Guid(3bb5cf8546442ed47b054127b668978b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Environment_17.5ftx16.5ft_LR001.fbx using Guid(3bb5cf8546442ed47b054127b668978b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0749a2b659c85962c85b454d969bbe64') in 0.0154419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Sectional_106in_LR002.prefab
+  artifactKey: Guid(4c7561fbec932bd4f85e41c0ceed7c69) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Sectional_106in_LR002.prefab using Guid(4c7561fbec932bd4f85e41c0ceed7c69) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '23cb102f465cb43b2cd38df87766ce08') in 0.0088277 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/AlarmClock_BR001.fbx
+  artifactKey: Guid(ca7535859821de8418382453fe167052) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/AlarmClock_BR001.fbx using Guid(ca7535859821de8418382453fe167052) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c7cd616fc310d96d70c56bc438110283') in 0.0117746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_King_BR006.prefab
+  artifactKey: Guid(f9b89cb5324269b42a9601ccea4f775b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_King_BR006.prefab using Guid(f9b89cb5324269b42a9601ccea4f775b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'cb17bddb1d27ea8f798c5e1870b7ab7d') in 0.0062792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/PalletMover_FY001.prefab
+  artifactKey: Guid(e03bdff149cded54d90ec0248cc3aec4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/PalletMover_FY001.prefab using Guid(e03bdff149cded54d90ec0248cc3aec4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '78eb31aecb5ff920dd223d52f3ec1d8f') in 0.0109643 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 278
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/Coaster_4in_CN001.fbx
+  artifactKey: Guid(80f004e26099d1e44baef5569fca6cea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/Coaster_4in_CN001.fbx using Guid(80f004e26099d1e44baef5569fca6cea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0bac739c1438ab52a4b6976cca2f8ab9') in 0.0100268 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Fence_Wood_Post_BY001.prefab
+  artifactKey: Guid(ab3f83ad68204cd4a9bee979137a9800) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Fence_Wood_Post_BY001.prefab using Guid(ab3f83ad68204cd4a9bee979137a9800) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f0a6ae027a9a13c20b69e564189638b0') in 0.0129328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/PaperTowel_Dispenser_14in_KN001.prefab
+  artifactKey: Guid(55f9dcbde64c02d42ab82bfb95ac87b4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/PaperTowel_Dispenser_14in_KN001.prefab using Guid(55f9dcbde64c02d42ab82bfb95ac87b4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3b52a22e9ce5507591fa208afa8cfb56') in 0.0112569 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Refrigerator_36Wx26.5Dx70H_KN002.fbx
+  artifactKey: Guid(b616fff444a39ff43b0160b59de69823) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Refrigerator_36Wx26.5Dx70H_KN002.fbx using Guid(b616fff444a39ff43b0160b59de69823) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '43396fae943303b798384c8a3b7e7b62') in 0.0130694 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_3x4in_LR001.prefab
+  artifactKey: Guid(3dbcfd6cc846f2d48b6fe1f1c7e19fcc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_3x4in_LR001.prefab using Guid(3dbcfd6cc846f2d48b6fe1f1c7e19fcc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6b220a576e5f4ac8597a55be74103447') in 0.0105644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Custom
+  artifactKey: Guid(7eb5bf73b5c132a45b640556c1a7d6f6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Custom using Guid(7eb5bf73b5c132a45b640556c1a7d6f6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '47dd09d7a00879a8703e553f768aa995') in 0.0041393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Sectional_106in_LR001.fbx
+  artifactKey: Guid(8b9224abfeb998c41be9c69cad867078) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Sectional_106in_LR001.fbx using Guid(8b9224abfeb998c41be9c69cad867078) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f509d282926ce61d16cc78ef7c1c1f1e') in 0.0129281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Shelf_9ft_LR001.fbx
+  artifactKey: Guid(b0d7ca2faec5ab041805e733017e1c05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Shelf_9ft_LR001.fbx using Guid(b0d7ca2faec5ab041805e733017e1c05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e3f4243ec6c165ce7cc24f3687af19b6') in 0.0132354 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Tree_30ft_BY001.fbx
+  artifactKey: Guid(4a7eaeeb118ee9a4ba76b6c26a08b71d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Tree_30ft_BY001.fbx using Guid(4a7eaeeb118ee9a4ba76b6c26a08b71d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '565064ae50841c038ae4c21f6ecc70f7') in 0.0134018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/LaundryBasket_Round_BR001.prefab
+  artifactKey: Guid(7c4120ff42456d5409336beb6910fc0e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/LaundryBasket_Round_BR001.prefab using Guid(7c4120ff42456d5409336beb6910fc0e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4264f8257459c0434601646a5ae506ea') in 0.0122049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Bookcase_40in_LR001.prefab
+  artifactKey: Guid(58e3a5e58508fa6478f03e922dda1865) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Bookcase_40in_LR001.prefab using Guid(58e3a5e58508fa6478f03e922dda1865) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c6d7a8ce283398f99203deb1fcebe2e3') in 0.0117138 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Chair_34in_BY001.fbx
+  artifactKey: Guid(9be7587cbe2d7bf48a8f4baf79ec0d0a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Chair_34in_BY001.fbx using Guid(9be7587cbe2d7bf48a8f4baf79ec0d0a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ea016a76570e0650bff02ae1aa47031f') in 0.0104661 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/PalletMover_FY001.fbx
+  artifactKey: Guid(95cecd12e8616e140a0206f8f3b966a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/PalletMover_FY001.fbx using Guid(95cecd12e8616e140a0206f8f3b966a3) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3646272422e97cf3a48c61cb93fb6717') in 0.0191079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 154
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Chair_32in_DR002.fbx
+  artifactKey: Guid(861e0f5502ee9b142829282c0bdbc5e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Chair_32in_DR002.fbx using Guid(861e0f5502ee9b142829282c0bdbc5e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ba41d66837844149df5f5dcc1cfc1f54') in 0.011378 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Sconce_22in_LR001.prefab
+  artifactKey: Guid(ceb213f8182e46d47abb9d5974df1300) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Sconce_22in_LR001.prefab using Guid(ceb213f8182e46d47abb9d5974df1300) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fec1f4100e72c46c85bbb60453f35c44') in 0.0116258 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/PicnicTable_6ft_BY001.fbx
+  artifactKey: Guid(ba7f9d04023bc204d82de37af1791b03) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/PicnicTable_6ft_BY001.fbx using Guid(ba7f9d04023bc204d82de37af1791b03) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6890bb27de4802e2c7a895d092031011') in 0.0115506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Prefab/LightPost_16ft_PK001.prefab
+  artifactKey: Guid(3ed863ed0aaa37b469dfa16186c90b1d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Prefab/LightPost_16ft_PK001.prefab using Guid(3ed863ed0aaa37b469dfa16186c90b1d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c12eb71a9d7c8b6c58d1cb9825276e52') in 0.0152005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/SaucePan_8in_KN001.fbx
+  artifactKey: Guid(8faebebaae8f315418001766734e9ad0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/SaucePan_8in_KN001.fbx using Guid(8faebebaae8f315418001766734e9ad0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5ab950a523339359379b988142836637') in 0.0100516 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/Bed_Queen_BR001.fbx
+  artifactKey: Guid(e03ea26edade61c489b5047862af314e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/Bed_Queen_BR001.fbx using Guid(e03ea26edade61c489b5047862af314e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'badb0cac93335fc7a788e32a533f1241') in 0.0105373 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Environment_20ftx17ft_BR001.prefab
+  artifactKey: Guid(e0196f91d497c094c93b5f01c2fc6bb2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Environment_20ftx17ft_BR001.prefab using Guid(e0196f91d497c094c93b5f01c2fc6bb2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ecd126c1c103e5ab80c90066440927ac') in 0.0067613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 81
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_19.5x24in_LR001.prefab
+  artifactKey: Guid(3931f7ede7387f448971982e058e104b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_19.5x24in_LR001.prefab using Guid(3931f7ede7387f448971982e058e104b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1c438054ad8029ddd1af87ba35d1d138') in 0.0192394 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Console_31in_LR001.fbx
+  artifactKey: Guid(859dbe9060050424d86852d08d5f8738) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Console_31in_LR001.fbx using Guid(859dbe9060050424d86852d08d5f8738) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'dfb78c9502c5415e3f59e8d63ad529e8') in 0.011547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_Full_BR005.prefab
+  artifactKey: Guid(423699cd722286b4da1b58e11ec68e61) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_Full_BR005.prefab using Guid(423699cd722286b4da1b58e11ec68e61) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '65a868b68f65647099666ab9a7ac698e') in 0.0073344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab/Building_Window_BB002.prefab
+  artifactKey: Guid(372bfdf342410f84da8342d0acfdd1e5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab/Building_Window_BB002.prefab using Guid(372bfdf342410f84da8342d0acfdd1e5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '328e1b1e10dd63331ab65c0b72a2599b') in 0.012746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/Telephone_CN001.fbx
+  artifactKey: Guid(5fbff82c6570d0b4e831b6a2eac6f99f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/Telephone_CN001.fbx using Guid(5fbff82c6570d0b4e831b6a2eac6f99f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ffad1eef35750d1f815ce3fc63a6b315') in 0.0089048 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Farmhouse_BY001.fbx
+  artifactKey: Guid(2a5cac33845122842b5e610a72c118b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Farmhouse_BY001.fbx using Guid(2a5cac33845122842b5e610a72c118b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a2e538460d57a4d0f4cd820a4954e7da') in 0.0102419 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Range_Hood_30in_KN001.fbx
+  artifactKey: Guid(d424c23ce6551984eb4fceaa2d88065f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Range_Hood_30in_KN001.fbx using Guid(d424c23ce6551984eb4fceaa2d88065f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a8027258faad529c251a7cdf8579e7d6') in 0.0109106 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Pallet_w_LargeBoxes_FY001.prefab
+  artifactKey: Guid(de1fbc796db261a44a188dfbe040ba80) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Pallet_w_LargeBoxes_FY001.prefab using Guid(de1fbc796db261a44a188dfbe040ba80) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ab0a297ce4fba16d82df626da183afd3') in 0.0090897 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 93
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Refrigerator_36Wx26.5Dx70H_KN001.prefab
+  artifactKey: Guid(cdd15e769c9e62849b0b2405566374e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Refrigerator_36Wx26.5Dx70H_KN001.prefab using Guid(cdd15e769c9e62849b0b2405566374e6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '527926a7b0c85b810454329bf201a716') in 0.0107638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PillowSquare_16in_LR001.prefab
+  artifactKey: Guid(af883c1354b494e4bb5a7e7a45036527) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PillowSquare_16in_LR001.prefab using Guid(af883c1354b494e4bb5a7e7a45036527) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f8e3d1a406a44e650b5c6cf7a8bcd42a') in 0.0106358 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_10x10in_LR001.prefab
+  artifactKey: Guid(4fa79ab1d35d6e84ba25e54b7623a606) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_10x10in_LR001.prefab using Guid(4fa79ab1d35d6e84ba25e54b7623a606) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3e2fde64b73285c76712f1b5dd54c593') in 0.0123263 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Bowl_24in_LR001.prefab
+  artifactKey: Guid(9d8319e6931b5d14083f8f2437fd190e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Bowl_24in_LR001.prefab using Guid(9d8319e6931b5d14083f8f2437fd190e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a4a46a576299f9475b20837aa339a96a') in 0.0101446 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Bench_42in_DR001.fbx
+  artifactKey: Guid(80a2ec715e15da149bc1342adf916030) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Bench_42in_DR001.fbx using Guid(80a2ec715e15da149bc1342adf916030) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f259be602dcedf7a6ff2889467362400') in 0.0108665 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/FileCabinet_29in_OF001.prefab
+  artifactKey: Guid(b2bd6da4c3244ee40a003e7db2ff22dc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/FileCabinet_29in_OF001.prefab using Guid(b2bd6da4c3244ee40a003e7db2ff22dc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '65d589f5b1404f675f20f94b36edb9f6') in 0.0129119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Fence_DogEar_3ft_BY001.prefab
+  artifactKey: Guid(52889ca15ff6bd049ab9f3c5866f0a76) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Fence_DogEar_3ft_BY001.prefab using Guid(52889ca15ff6bd049ab9f3c5866f0a76) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'aa354ca101688d5ea36599e9fb7c3d83') in 0.0112161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab/Sidewalk_Large_BB001.prefab
+  artifactKey: Guid(2594920874e7ad042889c5e50206eba5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab/Sidewalk_Large_BB001.prefab using Guid(2594920874e7ad042889c5e50206eba5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '29fa479757fa31f3ae5a0cc10e16c6db') in 0.0110566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityXRContent/Common/ReferenceShapes/Prefab/DirectionalCapsule.prefab
+  artifactKey: Guid(95ce43a231f7ca6458a09797b7bef318) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/Common/ReferenceShapes/Prefab/DirectionalCapsule.prefab using Guid(95ce43a231f7ca6458a09797b7bef318) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '705c67e3243799aca4b0103c00fcc915') in 0.006371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 21
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Tripod_WorkLight_FY001.fbx
+  artifactKey: Guid(6db7ceb19ad20804fa8d8a89dcd20d1d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Tripod_WorkLight_FY001.fbx using Guid(6db7ceb19ad20804fa8d8a89dcd20d1d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd785284eb54261e2050dfbfd32180dd6') in 0.0105016 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/StockPot_9.5in_KN001.fbx
+  artifactKey: Guid(5942d15c10898574494466329b8eff0f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/StockPot_9.5in_KN001.fbx using Guid(5942d15c10898574494466329b8eff0f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '62b16e539d31d0e6d02bc4d7e139f16c') in 0.00859 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Book_Paperback_CN001.prefab
+  artifactKey: Guid(ed1d1f1b5c3cf004ca29fc38468f5175) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Book_Paperback_CN001.prefab using Guid(ed1d1f1b5c3cf004ca29fc38468f5175) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6115a8a10c8f105b041b0863932dc949') in 0.0130282 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/MFG_Equip_30ftx7ft_w_Exhaust_FY001.prefab
+  artifactKey: Guid(b0ef953fd8a0e934ea8a815a06f436b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/MFG_Equip_30ftx7ft_w_Exhaust_FY001.prefab using Guid(b0ef953fd8a0e934ea8a815a06f436b7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'eda20fe170062e57b58a7ece0f5bd9f4') in 0.0067783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Houseplant_8.5in_LR002.fbx
+  artifactKey: Guid(62d9fec330f750c4e93dc8922a48f114) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Houseplant_8.5in_LR002.fbx using Guid(62d9fec330f750c4e93dc8922a48f114) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bee483a32f72658ebf46711c749e2e59') in 0.0095545 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_15Wx24Dx36H_KN001a.fbx
+  artifactKey: Guid(17375844b831e7d40b837f42d6911973) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_15Wx24Dx36H_KN001a.fbx using Guid(17375844b831e7d40b837f42d6911973) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ec84b864355542f64b4b013956c2fc26') in 0.0117187 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.079660 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/TiltTruck_FY001.fbx
+  artifactKey: Guid(40e2e592e613d264b844c5f736062c7f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/TiltTruck_FY001.fbx using Guid(40e2e592e613d264b844c5f736062c7f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9f586d49fa6ffbeb3e520c1e9c6ae99a') in 0.0148752 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Rug_8x10ft_LR001.prefab
+  artifactKey: Guid(c3f58836d436ac847860fb5ad2daa434) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Rug_8x10ft_LR001.prefab using Guid(c3f58836d436ac847860fb5ad2daa434) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '15115998b05d85821051b62938a1f34c') in 0.0165418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Desk_52in_OF001.prefab
+  artifactKey: Guid(62cd571a1da52f54d924a53dd0a57345) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Desk_52in_OF001.prefab using Guid(62cd571a1da52f54d924a53dd0a57345) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd8aba8bbca251173d43c0bb236e60669') in 0.0159695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/Bed_Queen_BR003.fbx
+  artifactKey: Guid(f1ec5004b08065d4ab92b550b9515f59) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/Bed_Queen_BR003.fbx using Guid(f1ec5004b08065d4ab92b550b9515f59) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '15f241b885e48a4b88325d63ecc9b744') in 0.012836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Power_Cutter_FY001.fbx
+  artifactKey: Guid(4cb1a7d84341f1a47a10db746ed0594d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Power_Cutter_FY001.fbx using Guid(4cb1a7d84341f1a47a10db746ed0594d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '54c36ee78f290791f6083f77c7121668') in 0.0101467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab
+  artifactKey: Guid(f19f4f0bf48c93f40b13f79a1cd76318) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab using Guid(f19f4f0bf48c93f40b13f79a1cd76318) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ad17f0758ec0621ecacf609a797a4250') in 0.0039374 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/MediaConsole_86in_LR001.prefab
+  artifactKey: Guid(32670462627816848941ef9048fd2869) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/MediaConsole_86in_LR001.prefab using Guid(32670462627816848941ef9048fd2869) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '23a1797bd43a00be8d24b6f653e43fd9') in 0.0067404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Chair_Patio_34in_BY002.prefab
+  artifactKey: Guid(9811396deadb1ad4582352a8c478a8e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Chair_Patio_34in_BY002.prefab using Guid(9811396deadb1ad4582352a8c478a8e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '117ae47fa99f5982fce592184eeebacd') in 0.0086613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 28
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Pallet_w_SmallBoxes_FY001.prefab
+  artifactKey: Guid(6293923f64075514788135fedad4b86d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Pallet_w_SmallBoxes_FY001.prefab using Guid(6293923f64075514788135fedad4b86d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '15411c057458984d9a717019494f11e5') in 0.0131745 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 267
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Storage_27in_OF002.prefab
+  artifactKey: Guid(07cc90996c855fb4b9ad25ce61cd2ba1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Storage_27in_OF002.prefab using Guid(07cc90996c855fb4b9ad25ce61cd2ba1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'beb705f4ed19aacf397cc3ccb53006a5') in 0.0117563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Rug_5x8ft_LR001.prefab
+  artifactKey: Guid(3e578fc884cd5af4db571eb0ffd872f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Rug_5x8ft_LR001.prefab using Guid(3e578fc884cd5af4db571eb0ffd872f1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '087eb15484fa2401198a463a5d8e9fd2') in 0.0137755 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/RockWall_12.5ft_BY001.fbx
+  artifactKey: Guid(83f06043db2eae54aac906f43cb2ead8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/RockWall_12.5ft_BY001.fbx using Guid(83f06043db2eae54aac906f43cb2ead8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '18642423ac42907afe4ecd138d3280fc') in 0.0109 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_Queen_BR005.prefab
+  artifactKey: Guid(dadba2e737138d042b489290f13c8db2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_Queen_BR005.prefab using Guid(dadba2e737138d042b489290f13c8db2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd9a7eae38a46f12694d0a83a9f723faa') in 0.0070875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/IslandCorner_KN001.prefab
+  artifactKey: Guid(8d90dcee63eea52469f962b7c9a7edd7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/IslandCorner_KN001.prefab using Guid(8d90dcee63eea52469f962b7c9a7edd7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a7566b8df522483c2ac9bc14aaa66d9e') in 0.0134677 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 212
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Candle_8in_DR001.fbx
+  artifactKey: Guid(6194a59175f31ef4898894fc5e8e73f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Candle_8in_DR001.fbx using Guid(6194a59175f31ef4898894fc5e8e73f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'b322fd1cc4e5f9f03f2bc441ace8c82f') in 0.0135011 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/CeilingFan_52in_BR001.prefab
+  artifactKey: Guid(bce5b45f668577a48a6c9f815e86868e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/CeilingFan_52in_BR001.prefab using Guid(bce5b45f668577a48a6c9f815e86868e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5c9f258bfad4a297227e1e9cea244842') in 0.0120572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/PaperTowel_Dispenser_14in_KN001.fbx
+  artifactKey: Guid(d288ddd8450603e4e86c92721048e29b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/PaperTowel_Dispenser_14in_KN001.fbx using Guid(d288ddd8450603e4e86c92721048e29b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '95a05d81338cfa896b206f147ef928ca') in 0.0113551 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/CoffeeTable_48in_LR003.fbx
+  artifactKey: Guid(9c47ce68fd78ae8459ab5da12e36d81e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/CoffeeTable_48in_LR003.fbx using Guid(9c47ce68fd78ae8459ab5da12e36d81e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1067b340f1bf7d9f8a7056e4fa415965') in 0.0101882 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Prefab/Environment_15ftx12.5ft_DR001.prefab
+  artifactKey: Guid(4b749c6af2e21824e8aa23a340099f65) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Prefab/Environment_15ftx12.5ft_DR001.prefab using Guid(4b749c6af2e21824e8aa23a340099f65) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0a5c150fe98b81e3791d1fab66a29b66') in 0.0077943 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 68
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Flagstone_3in_BY004.fbx
+  artifactKey: Guid(cc3141e0ca62ca64f8f9e80feca0cc55) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Flagstone_3in_BY004.fbx using Guid(cc3141e0ca62ca64f8f9e80feca0cc55) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '996f1835934ad2c57a4b80ec70842dab') in 0.0101226 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/SafetyRailing_16ft_FY001.fbx
+  artifactKey: Guid(11a250bc53c2db442bab3e49a9d92a6e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/SafetyRailing_16ft_FY001.fbx using Guid(11a250bc53c2db442bab3e49a9d92a6e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '65094113a6831b9486c7db3798235ce7') in 0.0128073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Playset_Swings_BY001.fbx
+  artifactKey: Guid(926a3cd56b9ce974da53f290d50feed5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Playset_Swings_BY001.fbx using Guid(926a3cd56b9ce974da53f290d50feed5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bbc75f010e94acf0c2b296f41708ab35') in 0.0096353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Storage_27in_OF001.prefab
+  artifactKey: Guid(09141faf41388824e94d1035f723e5f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Storage_27in_OF001.prefab using Guid(09141faf41388824e94d1035f723e5f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '423c03f64920b1e8ad2871fa74ae12ce') in 0.0115253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_24D_EndCapL_KN001.fbx
+  artifactKey: Guid(35f270c035b28fc4b83eeb537cd91ed2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_24D_EndCapL_KN001.fbx using Guid(35f270c035b28fc4b83eeb537cd91ed2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5814cabecfba57ac8bf4f7f12cb120fc') in 0.0102841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/EndTable_24in_LR001.fbx
+  artifactKey: Guid(fff3aeae284c1674f992b673e703818b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/EndTable_24in_LR001.fbx using Guid(fff3aeae284c1674f992b673e703818b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e0ed055cca3e4e3f13000774ae196bfc') in 0.0116303 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Island_77Wx48Dx36H_KN001a.prefab
+  artifactKey: Guid(5c3386a074262ac4789b09a913df4472) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Island_77Wx48Dx36H_KN001a.prefab using Guid(5c3386a074262ac4789b09a913df4472) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8c12de4f75b1f653dd249eff4a520cdd') in 0.0146503 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 312
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/ShelfPopulated_9ft_LR001.prefab
+  artifactKey: Guid(abbf18d2e89b70e41ac47d2afa2e637f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/ShelfPopulated_9ft_LR001.prefab using Guid(abbf18d2e89b70e41ac47d2afa2e637f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7cc8fde8d176e5ec79aed4967a596314') in 0.0072889 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 80
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/Bed_Full_BR005.fbx
+  artifactKey: Guid(de515fbe07d59514aa0528cd3fc2d1b0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Models/Bed_Full_BR005.fbx using Guid(de515fbe07d59514aa0528cd3fc2d1b0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5decad96fcdfa2d03748e12dc4a98fda') in 0.015356 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom/Container_6in_CN002.prefab
+  artifactKey: Guid(b218cd4530150544da4294e9c64f0434) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom/Container_6in_CN002.prefab using Guid(b218cd4530150544da4294e9c64f0434) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2586a227e072ad6a41de949ca10800d3') in 0.014713 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/Common/ReferenceShapes/Models/Arrow.fbx
+  artifactKey: Guid(8e1abac4acc1c2742bb28256ba4f8d67) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/Common/ReferenceShapes/Models/Arrow.fbx using Guid(8e1abac4acc1c2742bb28256ba4f8d67) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6b5d094ec3a4dd158a2d501c1ac3d5ec') in 0.0115808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Knife_Block_14in_KN001.prefab
+  artifactKey: Guid(b0f6a052278bd2346bb808868068d64d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Knife_Block_14in_KN001.prefab using Guid(b0f6a052278bd2346bb808868068d64d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0ac1d53f2fb1c89bc62ba4943b9f8265') in 0.0119807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_24D_EndCapR_KN001.prefab
+  artifactKey: Guid(c90aec9789cff9445873df7e79b3e4b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_24D_EndCapR_KN001.prefab using Guid(c90aec9789cff9445873df7e79b3e4b5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e00df80ca18090462aec33132d683e86') in 0.0107486 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Door_BB001.fbx
+  artifactKey: Guid(98c10903e403e184d80c7384062b3874) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Door_BB001.fbx using Guid(98c10903e403e184d80c7384062b3874) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '97cd80c549ce65079abdf8dec77cee85') in 0.013827 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/FryPan_8in_KN001.prefab
+  artifactKey: Guid(74c06805956d5dc4cbd5e4890e114c95) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/FryPan_8in_KN001.prefab using Guid(74c06805956d5dc4cbd5e4890e114c95) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '8f49c4a82dd09e13610121cff2971aac') in 0.0131181 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Clock_24in_LR001.fbx
+  artifactKey: Guid(40f08bac5a9bd934c89a157862de9785) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Clock_24in_LR001.fbx using Guid(40f08bac5a9bd934c89a157862de9785) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ccd67d6e1656ebea104681e103c17d6f') in 0.0229116 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Models/Storage_27in_OF001.fbx
+  artifactKey: Guid(d1e28b27737b49f43810dd489e9f0183) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Models/Storage_27in_OF001.fbx using Guid(d1e28b27737b49f43810dd489e9f0183) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '475b76c23e228ef917923545e0f1ee4f') in 0.0137316 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Pallet_Jack_FY001.fbx
+  artifactKey: Guid(c099a8f0b8769d34697f83b9f9224888) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Pallet_Jack_FY001.fbx using Guid(c099a8f0b8769d34697f83b9f9224888) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e03f828ccf1e589e4d3a7bb3a4d54951') in 0.0153068 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Museum/Prefab/Explorer1Rocket_MM001.prefab
+  artifactKey: Guid(a3be1c77ce5d9ad40b5427ed3f912c1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Museum/Prefab/Explorer1Rocket_MM001.prefab using Guid(a3be1c77ce5d9ad40b5427ed3f912c1f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0f9e889014e100c5878c3fce642db9e7') in 0.0074291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 62
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_36Wx24Dx36H_Corner_KN001a.prefab
+  artifactKey: Guid(30f5ac12558fc42438cff3cb25feffdb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_36Wx24Dx36H_Corner_KN001a.prefab using Guid(30f5ac12558fc42438cff3cb25feffdb) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f69d7bc5704014fac061c420e64d04a2') in 0.0119155 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 45
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/ToolCrate_FY001.fbx
+  artifactKey: Guid(aa2e75fb06a0da74ca4c68bf04edb715) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/ToolCrate_FY001.fbx using Guid(aa2e75fb06a0da74ca4c68bf04edb715) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7398056b667f4f9317fe3545bf6651bc') in 0.0122769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/PostProcessing
+  artifactKey: Guid(4dbb9f551ad642e4ebf6b56d2b0858de) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/PostProcessing using Guid(4dbb9f551ad642e4ebf6b56d2b0858de) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7b370377aff27353be2bc2ce478a199d') in 0.0220312 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/IslandCorner_KN001.fbx
+  artifactKey: Guid(ca3b706b99e7b324e96492e0780096f6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/IslandCorner_KN001.fbx using Guid(ca3b706b99e7b324e96492e0780096f6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd7b89d725eded72df25dec22926a5a2a') in 0.0178685 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 111
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Environment_18ftx13ft_LR001.fbx
+  artifactKey: Guid(1175a5fca83b95e48a0aee46f9babd28) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Environment_18ftx13ft_LR001.fbx using Guid(1175a5fca83b95e48a0aee46f9babd28) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e37021270d8805450b0734d5b2da869e') in 0.0110935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 29
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Dish_Set_DR001.fbx
+  artifactKey: Guid(9e250ef9351da6740863f4ac299e8915) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Models/Dish_Set_DR001.fbx using Guid(9e250ef9351da6740863f4ac299e8915) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c03cba2e0dc481273a9a1da7e83144ec') in 0.01368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 24
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Chair_32in_LR001.fbx
+  artifactKey: Guid(b5d37d5332b1b504db1f8ce0e1d01d0b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Chair_32in_LR001.fbx using Guid(b5d37d5332b1b504db1f8ce0e1d01d0b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3bed558ea31e52df970b947f9a4bb2ba') in 0.0121163 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Apple_3in_LR002.prefab
+  artifactKey: Guid(708a48df5a9273c4184fbf8083539ddc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Apple_3in_LR002.prefab using Guid(708a48df5a9273c4184fbf8083539ddc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7b9e53aa400f934f3b490896860cf2b9') in 0.0114656 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Knife_Block_14in_KN001.fbx
+  artifactKey: Guid(06132f24a7ce5fa4696437722886342d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Knife_Block_14in_KN001.fbx using Guid(06132f24a7ce5fa4696437722886342d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2fc9a41810a1f0abb73cd7fdbf3d87e5') in 0.0136942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/TV_65in_LR001.prefab
+  artifactKey: Guid(bf6034e087ba6dd47b444f498928448d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/TV_65in_LR001.prefab using Guid(bf6034e087ba6dd47b444f498928448d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '36afbfeec5c80ffd7b0475dba234d731') in 0.0132746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Playset_Slide_BY001.fbx
+  artifactKey: Guid(fa64b717e57ea054db02c9788e9144ff) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Playset_Slide_BY001.fbx using Guid(fa64b717e57ea054db02c9788e9144ff) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c6ca89bdfeaac8ed44e56e4c49247d0d') in 0.0136608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Fence_DogEar_8ft_BY001.fbx
+  artifactKey: Guid(460c398d26c1fba49b05af3505263e57) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Fence_DogEar_8ft_BY001.fbx using Guid(460c398d26c1fba49b05af3505263e57) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '3c0a4b7911d9e3b72964b73cc862b085') in 0.0098106 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_39Wx24Dx36H_BlindCorner_KN001a.fbx
+  artifactKey: Guid(b0f0f0a24ea18b0429e78cb954fb0447) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_39Wx24Dx36H_BlindCorner_KN001a.fbx using Guid(b0f0f0a24ea18b0429e78cb954fb0447) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1c03bd1e1fd58e53eb8c65699445cc77') in 0.0129625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 51
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/MediaConsole_86in_LR001.fbx
+  artifactKey: Guid(a66aa248fc9ed4d4eb7fdb6c977a9d7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/MediaConsole_86in_LR001.fbx using Guid(a66aa248fc9ed4d4eb7fdb6c977a9d7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2708b5d04a98fd635cab9083f3e2605a') in 0.0159976 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Pallet_w_MedBoxes_FY001.fbx
+  artifactKey: Guid(6efbdb37f9f47864c8845d2462d28fd1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models/Pallet_w_MedBoxes_FY001.fbx using Guid(6efbdb37f9f47864c8845d2462d28fd1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'fb596967afe45b71903401b6f9371dc7') in 0.0166313 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models
+  artifactKey: Guid(5833d2503d7cb4d4dbf7468f8cbec7e8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Models using Guid(5833d2503d7cb4d4dbf7468f8cbec7e8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9a3addb37a8836532e44eacd6bb9b200') in 0.0040296 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_15Wx24Dx36H_KN002a.fbx
+  artifactKey: Guid(fc992be46aea61b419fa14e22ecba343) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetLower_Backsplash_15Wx24Dx36H_KN002a.fbx using Guid(fc992be46aea61b419fa14e22ecba343) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a614d66db542a864f87ce0d8c355ff6c') in 0.0125973 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 51
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Museum/Models/Explorer1Rocket_MM001.fbx
+  artifactKey: Guid(c5f8edb637540c443aa0b9cc19075d31) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Museum/Models/Explorer1Rocket_MM001.fbx using Guid(c5f8edb637540c443aa0b9cc19075d31) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '21f5aa04aaf1c32a297d00b48c6a0fc2') in 0.0150051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Plant_Small_BY001.prefab
+  artifactKey: Guid(8fe61209a7d6c7c45849be164d0eb076) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Plant_Small_BY001.prefab using Guid(8fe61209a7d6c7c45849be164d0eb076) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2aa06d2272ee881b3c5dd5547939ad95') in 0.0136921 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_15Wx24Dx36H_KN001a.prefab
+  artifactKey: Guid(79e70b030f717aa46b440ae565926e52) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_15Wx24Dx36H_KN001a.prefab using Guid(79e70b030f717aa46b440ae565926e52) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6df000fa2d20201399d559e834a0313c') in 0.01253 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 60
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab/Sidewalk_Small_BB001.prefab
+  artifactKey: Guid(bc33bcef284a7ab44a98cc12b260c353) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab/Sidewalk_Small_BB001.prefab using Guid(bc33bcef284a7ab44a98cc12b260c353) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '178fe6ed90b8e78b20dae788be05d670') in 0.0129164 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Container_21in_CN001.prefab
+  artifactKey: Guid(4b152f0fddc56914caa404404d4023d2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Container_21in_CN001.prefab using Guid(4b152f0fddc56914caa404404d4023d2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '476c391beffb9e49bb3e536b0ae3eadf') in 0.0156508 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Environment_20ftx18.5ft_LR001.prefab
+  artifactKey: Guid(386f636ad2f4c304da3afb2900701d9c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Environment_20ftx18.5ft_LR001.prefab using Guid(386f636ad2f4c304da3afb2900701d9c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd913e39e2edc002ed1d868b1d43dddfc') in 0.0091116 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Prefab
+  artifactKey: Guid(734fb7aeb68e66643b829e87d058b316) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Prefab using Guid(734fb7aeb68e66643b829e87d058b316) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4228201061440f0b8be5b8b6f3eb1c17') in 0.004026 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Lamp_15in_LR001.fbx
+  artifactKey: Guid(c7b0ddb103b3fe14194236853f74ab07) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Lamp_15in_LR001.fbx using Guid(c7b0ddb103b3fe14194236853f74ab07) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '50f6f7777f8d52811612b6bbc20ee240') in 0.0117844 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Island_81Wx36Dx36H_KN001a.prefab
+  artifactKey: Guid(167135b3a7963f547b1ee196b46dd938) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Island_81Wx36Dx36H_KN001a.prefab using Guid(167135b3a7963f547b1ee196b46dd938) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6b4e28bc81ce66e8d85d5f9ccca4a2b5') in 0.0144002 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 132
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/FryPan_10in_KN001.fbx
+  artifactKey: Guid(e98c6ed29572ab949b1867b8596b07d0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/FryPan_10in_KN001.fbx using Guid(e98c6ed29572ab949b1867b8596b07d0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'bd1539a64aba582182d1c85069047f0b') in 0.0090608 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 14
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Cooktop_30in_Electric_KN001.prefab
+  artifactKey: Guid(8238303b0a6265645b5d0c14bf51e29b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Cooktop_30in_Electric_KN001.prefab using Guid(8238303b0a6265645b5d0c14bf51e29b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '26ae21d9599407a964712b15c025e0a4') in 0.0114343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Rug_5x8ft_LR001.fbx
+  artifactKey: Guid(92b9bd1a3b6b9be42841a21c02fedb1b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Rug_5x8ft_LR001.fbx using Guid(92b9bd1a3b6b9be42841a21c02fedb1b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1dca84e3e4f384bda32fa3e70d49f990') in 0.0097244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park
+  artifactKey: Guid(3da4dc2267b67634e85aa0875003bb7c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park using Guid(3da4dc2267b67634e85aa0875003bb7c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '49c46e972cd500bfc495194415638979') in 0.004121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Bookcase_55in_LR001.fbx
+  artifactKey: Guid(64b18807508bb544aa595b207ca806bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Bookcase_55in_LR001.fbx using Guid(64b18807508bb544aa595b207ca806bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1901d346fa1a336df9b258170277814f') in 0.0139206 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Models/Bench_72in_PK001.fbx
+  artifactKey: Guid(b3bc4bd3c2cda884e89bf2c7478dfc0c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Models/Bench_72in_PK001.fbx using Guid(b3bc4bd3c2cda884e89bf2c7478dfc0c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0f068d247b7d4aca7f770263c6dc1e81') in 0.0113565 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetUpper_45Wx12Dx36H_Corner_KN001a.fbx
+  artifactKey: Guid(acf60f9ad32b65c4d926dc2b93e285fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetUpper_45Wx12Dx36H_Corner_KN001a.fbx using Guid(acf60f9ad32b65c4d926dc2b93e285fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '7e230640dc9d6947e49174b479632450') in 0.0143481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 56
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Window_BB003.fbx
+  artifactKey: Guid(ec505884eec28f54d919b48ba95250fd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Window_BB003.fbx using Guid(ec505884eec28f54d919b48ba95250fd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ae88b6fd621cd7d06e6afcea7eeb2890') in 0.0104477 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_16x20in_LR002.prefab
+  artifactKey: Guid(aa21b58096cae7f42a9fe74c7e856f8c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/PictureFrame_16x20in_LR002.prefab using Guid(aa21b58096cae7f42a9fe74c7e856f8c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '37f7c21136fd28894443f74527f1040b') in 0.0125383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Couch_88in_LR001.prefab
+  artifactKey: Guid(417a235b0f4e7f64bb73157e90221081) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Couch_88in_LR001.prefab using Guid(417a235b0f4e7f64bb73157e90221081) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6f88f0b850d3907bda0da614f56e175d') in 0.007564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 55
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Sectional_106in_LR001.prefab
+  artifactKey: Guid(9f40e44cfce3b0a4caaf12a8f466e3f7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Sectional_106in_LR001.prefab using Guid(9f40e44cfce3b0a4caaf12a8f466e3f7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'ab46dd42eba3a6f958af74a4570e2063') in 0.0084746 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 64
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard
+  artifactKey: Guid(b4fd135660c0cb249b398dc17c08e018) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard using Guid(b4fd135660c0cb249b398dc17c08e018) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd84e9c938f6af827498a9f5dda5270ea') in 0.0041149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Telephone_CN001.prefab
+  artifactKey: Guid(e9285e8ff8a1e9c45bee7ea38bad6afd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Telephone_CN001.prefab using Guid(e9285e8ff8a1e9c45bee7ea38bad6afd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '701d802f59a54cbd3a9c020594547238') in 0.0074066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Refrigerator_30Wx26.5Dx70H_KN001.prefab
+  artifactKey: Guid(83e27056a9a865d429f73976a2910df2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/Refrigerator_30Wx26.5Dx70H_KN001.prefab using Guid(83e27056a9a865d429f73976a2910df2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '6333f7418a5c26f0428d0bcf5cf2192c') in 0.0152161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom
+  artifactKey: Guid(12d3d1bf44edc17498f265074b977a2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Prefab/Custom using Guid(12d3d1bf44edc17498f265074b977a2a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'd350d724e5f4cd8a0f6507b216034910') in 0.0053558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityXRContent/Common/ReferenceShapes/Prefab
+  artifactKey: Guid(f7156114434fdf447a25cfcbda1bbf29) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/Common/ReferenceShapes/Prefab using Guid(f7156114434fdf447a25cfcbda1bbf29) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a74539494a12233cb1dad4f4687caa23') in 0.0040245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_King_BR004.prefab
+  artifactKey: Guid(dbd6ff97d4935ae4fa13dedfc883d382) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Prefab/Bed_King_BR004.prefab using Guid(dbd6ff97d4935ae4fa13dedfc883d382) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e501347e69b3ea353cc08b4cec0f28b8') in 0.0072804 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/CoffeeTable_48in_LR002.fbx
+  artifactKey: Guid(db377696b59abc84f8be8dde671f61bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/CoffeeTable_48in_LR002.fbx using Guid(db377696b59abc84f8be8dde671f61bd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '632b5c9ca0b41167b8257b79e8da0a81') in 0.0117437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Couch_88in_LR003.prefab
+  artifactKey: Guid(b592504b8901d2948b88877950406f6a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Couch_88in_LR003.prefab using Guid(b592504b8901d2948b88877950406f6a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '66ed5be92d551d48efb63856c3e569e8') in 0.007179 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 37
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Chair_38in_OF001.prefab
+  artifactKey: Guid(d6852bddd27a6a34fbbe8f1d8c1b8696) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Prefab/Chair_38in_OF001.prefab using Guid(d6852bddd27a6a34fbbe8f1d8c1b8696) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f8bd16d9527a4b11e9fc0dc85d32638d') in 0.0146589 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Fence_Wood_Slats_BY001.fbx
+  artifactKey: Guid(4dc3da1b06b27fb4ca0dd63549ec3687) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Models/Fence_Wood_Slats_BY001.fbx using Guid(4dc3da1b06b27fb4ca0dd63549ec3687) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '0bbc8b60aa45fed11922374a08141d4c') in 0.0135015 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Prefab/Table_Placemat_50in_DR001.prefab
+  artifactKey: Guid(d4e064cbc06c27844a503ae43ed3226d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/DiningRoom/Prefab/Table_Placemat_50in_DR001.prefab using Guid(d4e064cbc06c27844a503ae43ed3226d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '43c19181a19ae06b9a6f90fccf621a35') in 0.0117284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Ladder_Open_FY001.prefab
+  artifactKey: Guid(acc9199984c83cf4a84cc2ce244e821a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Ladder_Open_FY001.prefab using Guid(acc9199984c83cf4a84cc2ce244e821a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '94eb9863220a3d60983408bec830d6de') in 0.0120177 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab
+  artifactKey: Guid(ce9db717bf66ea84abb8d8531e91512b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Prefab using Guid(ce9db717bf66ea84abb8d8531e91512b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '163d063eb3c4fd0579c2f09d7326da2a') in 0.0047969 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Console_27.5in_LR001.fbx
+  artifactKey: Guid(e33d897370d393e4ab7c6ce18c5b69ed) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/Console_27.5in_LR001.fbx using Guid(e33d897370d393e4ab7c6ce18c5b69ed) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a691b4ca8b88847a996919c2b4cbab30') in 0.0111869 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models
+  artifactKey: Guid(2a471da9b31c1b34ab7718691838250c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models using Guid(2a471da9b31c1b34ab7718691838250c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f70df2d3375561b6c581e43f56e0e15f') in 0.0042066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Window_BB002.fbx
+  artifactKey: Guid(3b2a0bd65b4f0ea4aac2845dee4aabaa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Window_BB002.fbx using Guid(3b2a0bd65b4f0ea4aac2845dee4aabaa) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '35bdcdcc24f13591e960021ca0857bfa') in 0.0100629 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Bucket_Metal_FY001.prefab
+  artifactKey: Guid(a657a6001244d454aa4a8ac3446a4972) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Factory/Prefab/Bucket_Metal_FY001.prefab using Guid(a657a6001244d454aa4a8ac3446a4972) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'f04e7a89e425a3a06a40d92f9b89bdce') in 0.0177801 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_24D_EndCapL_KN001.prefab
+  artifactKey: Guid(a37aab20e4a3bc241beece9eb0a5756c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Prefab/CabinetLower_Backsplash_24D_EndCapL_KN001.prefab using Guid(a37aab20e4a3bc241beece9eb0a5756c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '1eeb2b85c6596d95b1f657272dcd79c7') in 0.0146274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen
+  artifactKey: Guid(98b622371222afb438f0202aa5db7154) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen using Guid(98b622371222afb438f0202aa5db7154) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'c37f5fb2f0f9505224127bbf0613576f') in 0.0045964 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Sidewalk_Small_BB001.fbx
+  artifactKey: Guid(d6c774fa1abb65340ac6e3204716d095) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Sidewalk_Small_BB001.fbx using Guid(d6c774fa1abb65340ac6e3204716d095) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '02fadb4fad7c9acf0ad5200dde6448f0') in 0.0102884 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent
+  artifactKey: Guid(81fbb07bfae2206489da2bdf0c57cc51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent using Guid(81fbb07bfae2206489da2bdf0c57cc51) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '28255d0b98c68938ab4d932807c54627') in 0.0041252 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Shelf_48in_LR002.prefab
+  artifactKey: Guid(739b3789e36148a4b967deea3d59562c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Shelf_48in_LR002.prefab using Guid(739b3789e36148a4b967deea3d59562c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '29854786076a90d7f3eb5b55980de111') in 0.0134406 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Wall_Scroll_7ft_LR001.prefab
+  artifactKey: Guid(a2f5a154c26c9c54e96e312ae700ee1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Prefab/Wall_Scroll_7ft_LR001.prefab using Guid(a2f5a154c26c9c54e96e312ae700ee1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'aa6ba4fe09589efce4da3f3d41e9425e') in 0.0118817 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Custom/Brick_4in_BY002.prefab
+  artifactKey: Guid(3abdfc81420674e4da23364252e77dc2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Custom/Brick_4in_BY002.prefab using Guid(3abdfc81420674e4da23364252e77dc2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '470091465f26dbafb94826b8513e9a4f') in 0.0107466 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetUpper_54Wx12Dx36H_Corner_KN001a.fbx
+  artifactKey: Guid(635398efd0a3a6244b2649d48ae8a81b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/CabinetUpper_54Wx12Dx36H_Corner_KN001a.fbx using Guid(635398efd0a3a6244b2649d48ae8a81b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '31956d160323aef989be5e610273de83') in 0.0206207 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 66
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/FloorLamp_67in_CN001.fbx
+  artifactKey: Guid(0ec8167921111ce4abdaa66602773250) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Common/Models/FloorLamp_67in_CN001.fbx using Guid(0ec8167921111ce4abdaa66602773250) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '13f37d13052f8b4ab4f10d9e0c3e22a9') in 0.0101384 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Island_81Wx36Dx36H_KN001a.fbx
+  artifactKey: Guid(98414921cf9fb72439386c623900e242) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Models/Island_81Wx36Dx36H_KN001a.fbx using Guid(98414921cf9fb72439386c623900e242) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '370468fb79ef8001dd4074f412477f4a') in 0.0144856 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 71
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Prefab/Custom/Balance Peg Variant.prefab
+  artifactKey: Guid(15a79e84f1809de448a372b5283815a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Park/Prefab/Custom/Balance Peg Variant.prefab using Guid(15a79e84f1809de448a372b5283815a9) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '5a4b4941d329f8a44766acbaf5beb625') in 0.011679 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Fence_Wood_Slats_BY001.prefab
+  artifactKey: Guid(e5b62fc579fe8f141a3bcf982a82b006) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Prefab/Fence_Wood_Slats_BY001.prefab using Guid(e5b62fc579fe8f141a3bcf982a82b006) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'eb5619a1aca614cffff0016d13eadb50') in 0.0130668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/CoffeeTable_43in_LR001.fbx
+  artifactKey: Guid(79f61600bea9ff84ba4eaf2690addef1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/Models/CoffeeTable_43in_LR001.fbx using Guid(79f61600bea9ff84ba4eaf2690addef1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '4296d79217a677c577345a89a0455062') in 0.0102319 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Models/Table_87in_OF001.fbx
+  artifactKey: Guid(fb575ca76a26d6041b6c2987afe4747f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Office/Models/Table_87in_OF001.fbx using Guid(fb575ca76a26d6041b6c2987afe4747f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '9ebbe236fd1e00e513ff285c147d540e') in 0.0144485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Playable
+  artifactKey: Guid(57a69f7f7acbd7343840ba0d81f097e4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Playable using Guid(57a69f7f7acbd7343840ba0d81f097e4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '888960f6f918c53f28ea1e4ea8546e82') in 0.0043999 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Window_Tall_BB002.fbx
+  artifactKey: Guid(10d52f77ca9bea74182dd9fbc30fc5c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Billboard/Models/Building_Window_Tall_BB002.fbx using Guid(10d52f77ca9bea74182dd9fbc30fc5c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'e06d2ec14b12dbf69949bc1e733d9004') in 0.0118654 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.598672 seconds.
+  path: Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset
+  artifactKey: Guid(c1df848d661502c4f820f34793252aa1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/XR/UserSimulationSettings/Resources/XRSimulationPreferences.asset using Guid(c1df848d661502c4f820f34793252aa1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'a87a78e98ae4328626a7522cc1e4781b') in 0.209512 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 663
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.192998 seconds.
+  path: Assets/Prefabs/ARPlane.prefab
+  artifactKey: Guid(c63cf964f114e254f9d8f11656119d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/ARPlane.prefab using Guid(c63cf964f114e254f9d8f11656119d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd6410723948cab84bfb1216948cab1fa') in 0.5021826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7020 unused Assets / (6.7 MB). Loaded Objects now: 7978.
+Memory consumption went from 168.7 MB to 162.0 MB.
+Total: 35.422500 ms (FindLiveObjects: 1.013000 ms CreateObjectMapping: 1.445700 ms MarkObjects: 26.626700 ms  DeleteObjects: 6.335600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 48.238200 seconds.
+  path: Assets/Scripts/PhysicsPlaneManager.cs
+  artifactKey: Guid(32285938ed2aa9d4784f7e84c543822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PhysicsPlaneManager.cs using Guid(32285938ed2aa9d4784f7e84c543822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b3e5450ce631ba8b1a8dd5294474bce4') in 0.0017792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.151391 seconds.
+  path: Assets/Scripts/PhysicsPlaneManager.cs
+  artifactKey: Guid(32285938ed2aa9d4784f7e84c543822c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/PhysicsPlaneManager.cs using Guid(32285938ed2aa9d4784f7e84c543822c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: 'feb63c958b3852360cd37c19b6c671d6') in 0.0049493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.466 seconds
+Refreshing native plugins compatible for Editor in 4.61 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.289 seconds
+Domain Reload Profiling: 2748ms
+	BeginReloadAssembly (437ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (31ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (126ms)
+	RebuildCommonClasses (63ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (884ms)
+		LoadAssemblies (670ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (388ms)
+			TypeCache.Refresh (18ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (338ms)
+			ResolveRequiredComponents (24ms)
+	FinalizeReload (1290ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (976ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (261ms)
+			ProcessInitializeOnLoadAttributes (540ms)
+			ProcessInitializeOnLoadMethodAttributes (131ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.79 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7030 unused Assets / (8.4 MB). Loaded Objects now: 7906.
+Memory consumption went from 170.8 MB to 162.4 MB.
+Total: 19.845100 ms (FindLiveObjects: 0.997300 ms CreateObjectMapping: 1.715200 ms MarkObjects: 10.437200 ms  DeleteObjects: 6.694200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.151 seconds
+Refreshing native plugins compatible for Editor in 3.77 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.997 seconds
+Domain Reload Profiling: 2142ms
+	BeginReloadAssembly (334ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (91ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (715ms)
+		LoadAssemblies (562ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (298ms)
+			TypeCache.Refresh (13ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (263ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (998ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (726ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (195ms)
+			ProcessInitializeOnLoadAttributes (395ms)
+			ProcessInitializeOnLoadMethodAttributes (104ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (21ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7030 unused Assets / (8.5 MB). Loaded Objects now: 7909.
+Memory consumption went from 170.6 MB to 162.1 MB.
+Total: 17.947900 ms (FindLiveObjects: 1.754500 ms CreateObjectMapping: 1.484400 ms MarkObjects: 8.026800 ms  DeleteObjects: 6.680800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 268.898195 seconds.
+  path: Assets/Scripts/PhysicsPlaneManager.cs
+  artifactKey: Guid(32285938ed2aa9d4784f7e84c543822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PhysicsPlaneManager.cs using Guid(32285938ed2aa9d4784f7e84c543822c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cd39bf2c079a3742834d0777383b1f1') in 0.0043483 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.995242 seconds.
+  path: Assets/Scripts/PhysicsPlaneManager.cs
+  artifactKey: Guid(32285938ed2aa9d4784f7e84c543822c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/PhysicsPlaneManager.cs using Guid(32285938ed2aa9d4784f7e84c543822c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '2367baf1e44057c3cbfc7f88b5488d29') in 0.0779348 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7020 unused Assets / (8.7 MB). Loaded Objects now: 7906.
+Memory consumption went from 170.8 MB to 162.0 MB.
+Total: 22.076300 ms (FindLiveObjects: 1.037900 ms CreateObjectMapping: 1.614400 ms MarkObjects: 10.082400 ms  DeleteObjects: 9.340000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.326287 seconds.
+  path: Assets/Scripts/DragAndPlace.cs
+  artifactKey: Guid(41f823ce759ed4c4c91c755532ed1fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DragAndPlace.cs using Guid(41f823ce759ed4c4c91c755532ed1fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a665197f7651c90efd10cc819e4cbf9c') in 0.0019673 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096970 seconds.
+  path: Assets/Scripts/DragAndPlace.cs
+  artifactKey: Guid(41f823ce759ed4c4c91c755532ed1fd0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/DragAndPlace.cs using Guid(41f823ce759ed4c4c91c755532ed1fd0) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (artifact id: '11e48a138a02e690803ab23900f9fdcb') in 0.0045987 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.414 seconds
+Refreshing native plugins compatible for Editor in 4.69 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.223 seconds
+Domain Reload Profiling: 2630ms
+	BeginReloadAssembly (335ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (87ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (925ms)
+		LoadAssemblies (659ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (411ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (369ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (1223ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (925ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (283ms)
+			ProcessInitializeOnLoadAttributes (486ms)
+			ProcessInitializeOnLoadMethodAttributes (114ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (30ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 4.15 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7031 unused Assets / (8.3 MB). Loaded Objects now: 7913.
+Memory consumption went from 170.7 MB to 162.4 MB.
+Total: 19.568800 ms (FindLiveObjects: 1.273800 ms CreateObjectMapping: 1.840700 ms MarkObjects: 9.645500 ms  DeleteObjects: 6.807800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 4.04 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7020 unused Assets / (8.9 MB). Loaded Objects now: 7909.
+Memory consumption went from 170.8 MB to 161.9 MB.
+Total: 21.195500 ms (FindLiveObjects: 1.121700 ms CreateObjectMapping: 1.749500 ms MarkObjects: 10.406500 ms  DeleteObjects: 7.916600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+[Licensing::Client] Successfully resolved entitlement details
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+- Loaded All Assemblies, in  1.455 seconds
+Refreshing native plugins compatible for Editor in 3.22 ms, found 4 plugins.
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  1.279 seconds
+Domain Reload Profiling: 2723ms
+	BeginReloadAssembly (360ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (89ms)
+	RebuildCommonClasses (65ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (943ms)
+		LoadAssemblies (716ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (378ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (1ms)
+			BuildScriptInfoCaches (329ms)
+			ResolveRequiredComponents (22ms)
+	FinalizeReload (1280ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1027ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (326ms)
+			ProcessInitializeOnLoadAttributes (532ms)
+			ProcessInitializeOnLoadMethodAttributes (133ms)
+			AfterProcessingInitializeOnLoad (12ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (24ms)
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/URP/Synthetic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Standard Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Simulation/Synthetic Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/Room X-Ray' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Simulation/URP/Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 3.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7031 unused Assets / (9.2 MB). Loaded Objects now: 7916.
+Memory consumption went from 170.8 MB to 161.5 MB.
+Total: 26.405700 ms (FindLiveObjects: 1.274800 ms CreateObjectMapping: 1.550700 ms MarkObjects: 9.559600 ms  DeleteObjects: 14.019100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
